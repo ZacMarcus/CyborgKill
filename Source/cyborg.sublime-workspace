@@ -1,0 +1,347 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"sp",
+				"spawnPosition"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "lib/game/main.js",
+			"settings":
+			{
+				"buffer_size": 4256,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/entities/levelchangetotitle.js",
+			"settings":
+			{
+				"buffer_size": 1221,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/entities/levelchange.js",
+			"settings":
+			{
+				"buffer_size": 1149,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "lib/game/entities/text.js",
+			"settings":
+			{
+				"buffer_size": 1317,
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "lib/game/levels/2end.js",
+			"settings":
+			{
+				"buffer_size": 5917,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/otherPeoplesCode/biolab_source.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/entities/floater.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/entities/lurker.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/entities/trigger.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/impact/entity.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/impact/impact.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/weltmeister/entities.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/weltmeister/edit-entities.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/main.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/entities/temp.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/entities/spike.js",
+		"/C/xampp/htdocs/Impactjs/cyborg/lib/game/entities/player.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/acid1.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/trigger.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/mover.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/spike.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/main.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/gear.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/debris.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/particle.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/player.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/delay.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/earthquake.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/acid2.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/impact/animation.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/spikes.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/impact/entity.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/kill.js",
+		"/C/xampp/htdocs/Impactjs/platformer/lib/game/entities/hurt.js"
+	],
+	"find":
+	{
+		"height": 34.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"_wm",
+			"wm",
+			"_wm",
+			"draw",
+			"levelTimeText",
+			"deathCountText",
+			"level"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "lib/game/main.js",
+					"settings":
+					{
+						"buffer_size": 4256,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								499,
+								499
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 135.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "lib/game/entities/levelchangetotitle.js",
+					"settings":
+					{
+						"buffer_size": 1221,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								367,
+								367
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "lib/game/entities/levelchange.js",
+					"settings":
+					{
+						"buffer_size": 1149,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								82,
+								82
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "lib/game/entities/text.js",
+					"settings":
+					{
+						"buffer_size": 1317,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1171,
+								1171
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "lib/game/levels/2end.js",
+					"settings":
+					{
+						"buffer_size": 5917,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage"
+						},
+						"translation.x": 1695.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 235.0,
+	"status_bar_visible": true
+}
